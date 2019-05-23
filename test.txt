@@ -8,4 +8,7 @@ je  suis super super riche !
 
 
 ah ah trop
+<<<<<<< HEAD
 dfbsldjbflbfglxjbgbl
+=======
+>>>>>>> 3f55111905075ff35df6f8fe240d21901e5cb1ba
